@@ -7,3 +7,8 @@ faz a instalacao do virtual env
  isso faz com que o ambiente virtual ative com o mesmo nome projeto-app o mesmo nome que voce deu quando criou no passo anterior.
 # pip install django 
 instalacao do fremework web
+# django-admin.exe startproject appchamado
+dentro da pasta que vc quiser com o comado acima ira criar um projeto com a estutura padao
+# python manage.py migrate
+dentro da pasta que foi criada vc devera executar o comado para ser ciado as estutura do banco d dados 
+
