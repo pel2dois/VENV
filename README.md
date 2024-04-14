@@ -11,4 +11,8 @@ instalacao do fremework web
 dentro da pasta que vc quiser com o comado acima ira criar um projeto com a estutura padao
 # python manage.py migrate
 dentro da pasta que foi criada vc devera executar o comado para ser ciado as estutura do banco d dados 
+# python manage.py runserver 172.16.0.7:8080
+vc pode executar o projeto na porta que vc quiser ou ip , no meu caso estou usando a porta 8080
+# python manage.py createsuperus
+Após executar este comando, você será solicitado a fornecer um nome de usuário, endereço de e-mail e senha para o superusuário
 
